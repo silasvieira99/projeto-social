@@ -33,3 +33,11 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 471px;
+    width: 269px;
+}
